@@ -20,7 +20,6 @@ wget https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one
 
 ```
 wget https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-light.sh && . one-light.sh
-
 ```
 
 ## Fonts
@@ -31,7 +30,7 @@ I recommend to use [Inconsolata][inconsolata] or [Fira Mono][fira-mono] fonts fo
 
 [MIT][mit-license] © [Denys Dovhan][denysdovhan]
 
-[preview-img]: https://cloud.githubusercontent.com/assets/3459374/9424576/aa1f7e3e-48f9-11e5-9f9d-24db40af559d.png
+[preview-img]: https://cloud.githubusercontent.com/assets/3459374/9424856/7ca61f48-4904-11e5-9f89-68345e3e1a5d.png
 [palette]: ./COLORS
 [one-dark-syntax]: https://atom.io/themes/one-dark-syntax
 [one-light-syntax]: https://atom.io/themes/one-light-syntax
