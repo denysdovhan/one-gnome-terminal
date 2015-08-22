@@ -1,6 +1,6 @@
-# One for GNOME Terminal
-
 ![One Dark preview][preview-img]
+
+# One for GNOME Terminal
 
 > Atom's One themes for GNOME Terminal
 
