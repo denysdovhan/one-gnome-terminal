@@ -4,7 +4,7 @@
 
 > Atom's One themes for GNOME Terminal
 
-Here are One Dark and One Light themes for GNOME Terminal. These themes use [color palette][palette] from original Atom's [One Dark][one-dark-syntax] and [One Light][one-light-syntax] syntax theme.
+Here are One Dark and One Light themes for GNOME Terminal (available on Ubuntu, Fedora, Elementary OS, etc). These themes use [color palette][palette] from original Atom's [One Dark][one-dark-syntax] and [One Light][one-light-syntax] syntax theme.
 
 ## Instalation
 
