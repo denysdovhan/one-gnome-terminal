@@ -122,6 +122,6 @@ gset bool   use_theme_colors "false"
 gset bool   use_theme_background "false"
 
 unset PROFILE_NAME
-nset PROFILE_SLUG
+unset PROFILE_SLUG
 unset DCONF
 unset UUIDGEN
