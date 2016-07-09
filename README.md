@@ -6,20 +6,20 @@
 
 Here are One Dark and One Light themes for GNOME Terminal (available on Ubuntu, Fedora, Elementary OS, etc). These themes use [color palette][palette] from original Atom's [One Dark][one-dark-syntax] and [One Light][one-light-syntax] syntax theme.
 
-## Instalation
+## Installation
 
 For installation just execute desired command below. Be careful, terminal will be closed after install.
 
 **One Dark**
 
 ```
-wget https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-dark.sh && . one-dark.sh
+wget https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-dark.sh && chmod +x one-dark.sh && ./one-dark.sh
 ```
 
 **One Light**
 
 ```
-wget https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-light.sh && . one-light.sh
+wget https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-light.sh && chmod +x one-light.sh && ./one-light.sh
 ```
 
 ## Fonts
