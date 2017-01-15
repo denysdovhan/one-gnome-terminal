@@ -13,13 +13,13 @@ For installation just execute desired command below. Be careful, terminal will b
 **One Dark**
 
 ```
-wget https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-dark.sh && . one-dark.sh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-dark.sh)"
 ```
 
 **One Light**
 
 ```
-wget https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-light.sh && . one-light.sh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-light.sh)"
 ```
 
 ## Fonts
