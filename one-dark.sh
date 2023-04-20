@@ -101,7 +101,7 @@ glist_append() {
 
     local entries="$(
         {
-            "$GCONFTOOL" --get "$key" | tr -d '[]' | tr , "\n" | fgrep -v "$val"
+            "$GCONFTOOL" --get "$key" | tr -d '[]' | tr , "\n" | grep -f -v "$val"
             echo "$val"
         } | head -c-1 | tr "\n" ,
     )"
